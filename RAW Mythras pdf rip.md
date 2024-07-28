@@ -27,7 +27,7 @@ t, & Friends...
 Developed and Written By
 
 ![1_image_0.png](1_image_0.png)
-
+piss
 Pete Nash and Lawrence Whitaker Based on material originally created by Steve Perrin, Ray Turney, Warren James and Steve Henderson Editing Lisa Tyler and Brian Pivik Proof Reading Ben Monroe and Lisa Tyler Design and Layout The Design Mechanism Artists David Benzal, Simon Bray, Sarah Evans, Alex Ferreiro, Eric Lofgren, Dan MacKinnon, Pascal Quidault, Sergio Sandoval, Lee Smith, Antonio Vazquez Cover by Pascal Quidault. Rear Cover illustration by Lee Smith.
 
 Special Thanks John Hutchinson, Carol Johnson, Brian Pivik, Simon Bray, Bruce Mason, and all the members of, and contributors to, The Design Mechanism forums
